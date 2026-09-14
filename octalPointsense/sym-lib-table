@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ResistorNetwork")(type "KiCad")(uri "${KIPRJMOD}/ResistorNetwork.kicad_sym")(options "")(descr ""))
+)
